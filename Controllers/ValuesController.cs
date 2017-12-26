@@ -13,7 +13,7 @@ namespace HowzWebApiSub001.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "余星保", "陳志豪" };
         }
 
         // GET api/values/5
