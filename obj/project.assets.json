@@ -5018,13 +5018,13 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
-      "HowzLib001/1.0.0": {
+      "HowzLibSub001/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/HowzLib001.dll": {}
+          "bin/placeholder/HowzLibSub001.dll": {}
         },
         "runtime": {
-          "bin/placeholder/HowzLib001.dll": {}
+          "bin/placeholder/HowzLibSub001.dll": {}
         }
       }
     },
@@ -10056,13 +10056,13 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
-      "HowzLib001/1.0.0": {
+      "HowzLibSub001/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/HowzLib001.dll": {}
+          "bin/placeholder/HowzLibSub001.dll": {}
         },
         "runtime": {
-          "bin/placeholder/HowzLib001.dll": {}
+          "bin/placeholder/HowzLibSub001.dll": {}
         }
       }
     },
@@ -15348,13 +15348,13 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
-      "HowzLib001/1.0.0": {
+      "HowzLibSub001/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/HowzLib001.dll": {}
+          "bin/placeholder/HowzLibSub001.dll": {}
         },
         "runtime": {
-          "bin/placeholder/HowzLib001.dll": {}
+          "bin/placeholder/HowzLibSub001.dll": {}
         }
       }
     },
@@ -20640,13 +20640,13 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
-      "HowzLib001/1.0.0": {
+      "HowzLibSub001/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/HowzLib001.dll": {}
+          "bin/placeholder/HowzLibSub001.dll": {}
         },
         "runtime": {
-          "bin/placeholder/HowzLib001.dll": {}
+          "bin/placeholder/HowzLibSub001.dll": {}
         }
       }
     }
@@ -29856,16 +29856,16 @@
         "windowsazure.storage.nuspec"
       ]
     },
-    "HowzLib001/1.0.0": {
+    "HowzLibSub001/1.0.0": {
       "type": "project",
-      "path": "../HowzLib001/HowzLib001.csproj",
-      "msbuildProject": "../HowzLib001/HowzLib001.csproj"
+      "path": "../HowzLibSub001/HowzLibSub001.csproj",
+      "msbuildProject": "../HowzLibSub001/HowzLibSub001.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Google.Cloud.Datastore.V1 >= 2.0.0",
-      "HowzLib001 >= 1.0.0",
+      "HowzLibSub001 >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
@@ -29898,8 +29898,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/Users/Howz/Projects/HowzProject001/HowzLib001/HowzLib001.csproj": {
-              "projectPath": "/Users/Howz/Projects/HowzProject001/HowzLib001/HowzLib001.csproj"
+            "/Users/Howz/Projects/HowzProject001/HowzLibSub001/HowzLibSub001.csproj": {
+              "projectPath": "/Users/Howz/Projects/HowzProject001/HowzLibSub001/HowzLibSub001.csproj"
             }
           }
         }

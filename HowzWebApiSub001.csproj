@@ -19,6 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HowzLib001\HowzLib001.csproj" />
+    <ProjectReference Include="..\HowzLibSub001\HowzLibSub001.csproj" />
   </ItemGroup>
 </Project>

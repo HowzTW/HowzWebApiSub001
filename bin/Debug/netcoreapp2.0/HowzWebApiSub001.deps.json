@@ -24,7 +24,7 @@
       "HowzWebApiSub001/1.0.0": {
         "dependencies": {
           "Google.Cloud.Datastore.V1": "2.0.0",
-          "HowzLib001": "1.0.0",
+          "HowzLibSub001": "1.0.0",
           "Microsoft.AspNetCore.All": "2.0.0",
           "Microsoft.NETCore.App": "2.0.0"
         },
@@ -4035,12 +4035,12 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
-      "HowzLib001/1.0.0": {
+      "HowzLibSub001/1.0.0": {
         "runtime": {
-          "HowzLib001.dll": {}
+          "HowzLibSub001.dll": {}
         },
         "compile": {
-          "HowzLib001.dll": {}
+          "HowzLibSub001.dll": {}
         }
       },
       "Microsoft.NETCore.App/2.0.0": {
@@ -6327,7 +6327,7 @@
       "path": "windowsazure.storage/8.1.4",
       "hashPath": "windowsazure.storage.8.1.4.nupkg.sha512"
     },
-    "HowzLib001/1.0.0": {
+    "HowzLibSub001/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
