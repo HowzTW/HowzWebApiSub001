@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using HowzLib001;
 
 namespace HowzWebApiSub001.Controllers
 {
@@ -13,7 +14,9 @@ namespace HowzWebApiSub001.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "余星保", "陳志豪" };
+            MyClass myObject = new MyClass();
+
+            return new string[] { "余星保", "陳志豪", myObject.GetType().ToString() };
         }
 
         // GET api/values/5
