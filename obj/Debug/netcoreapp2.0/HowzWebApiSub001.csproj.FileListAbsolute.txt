@@ -3,9 +3,6 @@
 /Users/Howz/Projects/HowzProject001/HowzWebApiSub001/bin/Debug/netcoreapp2.0/HowzWebApiSub001.runtimeconfig.dev.json
 /Users/Howz/Projects/HowzProject001/HowzWebApiSub001/bin/Debug/netcoreapp2.0/HowzWebApiSub001.dll
 /Users/Howz/Projects/HowzProject001/HowzWebApiSub001/bin/Debug/netcoreapp2.0/HowzWebApiSub001.pdb
-/Users/Howz/Projects/HowzProject001/HowzWebApiSub001/bin/Debug/netcoreapp2.0/HowzLibSub001.dll
-/Users/Howz/Projects/HowzProject001/HowzWebApiSub001/bin/Debug/netcoreapp2.0/HowzLibSub001.pdb
-/Users/Howz/Projects/HowzProject001/HowzWebApiSub001/obj/Debug/netcoreapp2.0/HowzWebApiSub001.csprojResolveAssemblyReference.cache
 /Users/Howz/Projects/HowzProject001/HowzWebApiSub001/obj/Debug/netcoreapp2.0/HowzWebApiSub001.csproj.CoreCompileInputs.cache
 /Users/Howz/Projects/HowzProject001/HowzWebApiSub001/obj/Debug/netcoreapp2.0/HowzWebApiSub001.AssemblyInfoInputs.cache
 /Users/Howz/Projects/HowzProject001/HowzWebApiSub001/obj/Debug/netcoreapp2.0/HowzWebApiSub001.AssemblyInfo.cs

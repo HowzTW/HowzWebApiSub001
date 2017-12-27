@@ -5017,15 +5017,6 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
-      },
-      "HowzLibSub001/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/HowzLibSub001.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/HowzLibSub001.dll": {}
-        }
       }
     },
     ".NETCoreApp,Version=v2.0/win": {
@@ -10054,15 +10045,6 @@
         },
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
-        }
-      },
-      "HowzLibSub001/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/HowzLibSub001.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/HowzLibSub001.dll": {}
         }
       }
     },
@@ -15347,15 +15329,6 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
-      },
-      "HowzLibSub001/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/HowzLibSub001.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/HowzLibSub001.dll": {}
-        }
       }
     },
     ".NETCoreApp,Version=v2.0/win-x86": {
@@ -20638,15 +20611,6 @@
         },
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
-        }
-      },
-      "HowzLibSub001/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/HowzLibSub001.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/HowzLibSub001.dll": {}
         }
       }
     }
@@ -29855,17 +29819,11 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
-    },
-    "HowzLibSub001/1.0.0": {
-      "type": "project",
-      "path": "../HowzLibSub001/HowzLibSub001.csproj",
-      "msbuildProject": "../HowzLibSub001/HowzLibSub001.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Google.Cloud.Datastore.V1 >= 2.0.0",
-      "HowzLibSub001 >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
@@ -29897,11 +29855,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {
-            "/Users/Howz/Projects/HowzProject001/HowzLibSub001/HowzLibSub001.csproj": {
-              "projectPath": "/Users/Howz/Projects/HowzProject001/HowzLibSub001/HowzLibSub001.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

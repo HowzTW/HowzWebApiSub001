@@ -18,7 +18,5 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\HowzLibSub001\HowzLibSub001.csproj" />
-  </ItemGroup>
+  <Import Project="..\HowzLibSub001\HowzLibSub001.projitems" Label="Shared" Condition="Exists('..\HowzLibSub001\HowzLibSub001.projitems')" />
 </Project>
