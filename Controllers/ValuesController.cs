@@ -14,7 +14,7 @@ namespace HowzWebApiSub001.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            MyClass myObject = new MyClass();
+            Class1 myObject = new Class1();
 
             return new string[] { "余星保", "陳志豪", myObject.GetType().ToString() };
         }
